@@ -2,7 +2,7 @@
 - 😄 Pronouns: She/Her
 - 🌱 I’m currently learning TypeScript and Clojure.
 - I'm interested in Front-end development and UI Design.
-- I would work on anything that looks cool really.
+- I would work on anything that's visually appealing or requires a bit of brain power.
 - 📫 How to reach me: misturayahaya1@gmail.com
 <!--
 **Mistie-rious/Mistie-rious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
