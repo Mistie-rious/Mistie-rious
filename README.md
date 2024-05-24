@@ -4,6 +4,8 @@
 - 🎗️ I'm working on projects in front-end development and UI design.
 - 👯 I’m open to collaborating on anything fun or challenging.
 - 📫 How to reach me: misturayahaya1@gmail.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mistie-rious)](https://github.com/Mistie-rious/github-readme-stats)
 <!--
 **Mistie-rious/Mistie-rious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
