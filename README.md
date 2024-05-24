@@ -5,6 +5,8 @@
 - 👯 I’m open to collaborating on anything fun or challenging.
 - 📫 How to reach me: misturayahaya1@gmail.com
 
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mistie-rious)](https://github.com/Mistie-rious/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mistie-rious)](https://github.com/Mistie-rious/github-readme-stats)
 <!--
 **Mistie-rious/Mistie-rious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
