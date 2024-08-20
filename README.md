@@ -6,8 +6,6 @@
 - 📫 How to reach me: misturayahaya1@gmail.com
 
 
-[![Mistie-rious's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mistie-Rious)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **Mistie-rious/Mistie-rious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
