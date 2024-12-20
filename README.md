@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 😄 Pronouns: She/Her
-- 🌱 I’m currenty learning Express.js and Vue.js.
-- 🎗️ I'm working on projects in full-stack development and UI design.
+- 🌱 I’m currenty learning Express.js and .NET.
+- 🎗️ I'm working on projects in full-stack development and Backend Engineering.
 - 👯 I’m open to collaborating on anything fun or challenging.
 - 📫 How to reach me: misturayahaya1@gmail.com
 
